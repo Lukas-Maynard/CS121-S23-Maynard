@@ -12,7 +12,7 @@
        Checks if a valid planet is entered, if not restarts program.
  ********************************************************************
 */
-package LukasMaynard.Activity4;
+package src.Activity4;
 
 import javax.swing.*;
 

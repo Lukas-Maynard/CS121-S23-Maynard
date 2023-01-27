@@ -14,7 +14,7 @@
        * This is not the most optimal way to do this but the only way I thought of at the moment.
  ********************************************************************
 */
-package LukasMaynard.Activity5;
+package src.Activity5;
 
 import javax.swing.*;
 public class RestaurantSelector {

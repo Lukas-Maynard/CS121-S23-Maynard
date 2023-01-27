@@ -1,4 +1,4 @@
-package LukasMaynard;
+package src;
 
 public class Quiztesting {
     public static void main(String[] args) {

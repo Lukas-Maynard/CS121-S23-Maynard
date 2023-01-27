@@ -13,7 +13,7 @@
        Final output is the input name in caps, lowercase, and in reverse.
  ********************************************************************
 */
-package LukasMaynard.MaynardActivity1and2;
+package src.MaynardActivity1and2;
 
 // import javax.swing.*;
 import java.util.Scanner;

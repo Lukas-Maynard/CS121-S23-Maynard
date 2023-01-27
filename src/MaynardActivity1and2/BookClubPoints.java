@@ -15,7 +15,7 @@
       to give correct amount of points. Surrounded by exception handling to ensure integer input.
  ********************************************************************
 */
-package LukasMaynard.MaynardActivity1and2;
+package src.MaynardActivity1and2;
 
 import javax.swing.*;
 

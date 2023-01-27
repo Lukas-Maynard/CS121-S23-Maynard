@@ -11,7 +11,7 @@
        Randomly picks a color and tests if user guessed correctly. Repeats 10 times and display results.
  ********************************************************************
 */
-package LukasMaynard.Activity9;
+package src.Activity9;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -11,7 +11,7 @@
        Asks user input within small for loop, compares them in if-else-if statements.
  ********************************************************************
 */
-package LukasMaynard.Activity3;
+package src.Activity3;
 
 import javax.swing.*;
 

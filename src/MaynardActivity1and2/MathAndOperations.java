@@ -20,7 +20,7 @@
        be needed.(called by "NumberInput" methods)
  ********************************************************************
 */
-package LukasMaynard.MaynardActivity1and2;
+package src.MaynardActivity1and2;
 
 import javax.swing.*;
 

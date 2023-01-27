@@ -11,7 +11,7 @@
        Large amount of inputs created in nested loops. Other basic calculations.
  ********************************************************************
 */
-package LukasMaynard.Activity8;
+package src.Activity8;
 
 import java.util.Scanner;
 

@@ -11,7 +11,7 @@
        Sets random number from 1 to 100 and test user input if correct. If input is a letter quit.
  ********************************************************************
 */
-package LukasMaynard.Activity7;
+package src.Activity7;
 
 import java.util.Random;
 import java.util.Scanner;

@@ -11,7 +11,7 @@
        Tests users input with a modulus operator to determine if it is even or odd.
  ********************************************************************
 */
-package LukasMaynard.Activity3;
+package src.Activity3;
 
 import java.util.Scanner;
 

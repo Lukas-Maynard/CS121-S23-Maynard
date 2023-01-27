@@ -15,7 +15,7 @@
        All data is then output.
  ********************************************************************
 */
-package LukasMaynard.MaynardActivity1and2;
+package src.MaynardActivity1and2;
 
 import javax.swing.*;
 

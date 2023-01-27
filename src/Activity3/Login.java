@@ -11,7 +11,7 @@
        Tests users input through if else statements comparing strings.
  ********************************************************************
 */
-package LukasMaynard.Activity3;
+package src.Activity3;
 
 import javax.swing.*;
 public class Login {
