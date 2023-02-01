@@ -1,3 +1,17 @@
+/*
+**************************************************************
+                    Activity #10 - File Activity/FileAppend
+                    Name: Lukas Maynard
+                    Data Structures Date: Date of Submission (1/31/2023)
+ ***************************************************************
+        Appends to the end of the file preserving the header. Add as many lines as needed.
+        Then end the program by not typing anything and pressing enter.
+ *****************************************************************
+             FileAppend::main()
+        Parameters: None
+       Input is in a while loop that checks if input is empty if so it stops the loop.
+ ********************************************************************
+*/
 package src.Activity10;
 
 import java.io.BufferedWriter;
@@ -12,12 +26,10 @@ public class FileAppend {
         String fileName = "fileActivityTXT.txt";
         Scanner console = new Scanner(System.in);
 
-
         System.out.println("What would you like to add to the file? -- Enter nothing to end");
         String input = console.nextLine();
 
         try {
-
             FileWriter fileWrite = new FileWriter(fileName,true);
             BufferedWriter buffWriter = new BufferedWriter(fileWrite);
 
@@ -31,7 +43,6 @@ public class FileAppend {
             System.out.println("All lines added to text file");
             buffWriter.close();
             fileWrite.close();
-            System.exit(0);
 
         } catch (IOException e){
             System.out.println("There was an error");

@@ -1,3 +1,16 @@
+/*
+**************************************************************
+                    Activity #10 - File Activity/FileRead
+                    Name: Lukas Maynard
+                    Data Structures Date: Date of Submission (1/31/2023)
+ ***************************************************************
+        Reads text file and prints it in terminal.
+ *****************************************************************
+             FileRead::main()
+        Parameters: None
+       Uses while loop to print file, uses exception handling to catch un-found file or other error.
+ ********************************************************************
+*/
 package src.Activity10;
 
 import java.io.File;
@@ -9,17 +22,17 @@ public class FileRead {
         try{
             File myFile = new File("fileActivityTXT.txt");
             Scanner console = new Scanner(myFile);
-            System.out.println("Read file are the lines below:\n");
+            System.out.println("vvvv Read file are the lines below vvvv\n");
 
             while (console.hasNextLine()){
                 String output = console.nextLine();
                 System.out.println(output);
             }
 
-            System.out.println("\nFile as been fully read ^^^^");
+            System.out.println("\n^^^^ File as been fully read ^^^^");
             console.close();
         } catch (FileNotFoundException e){
-            System.out.println("An error occurred");
+            System.out.println("An error occurred.\nMake sure the file is created.");
         }
     }
 }
