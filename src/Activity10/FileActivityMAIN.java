@@ -2,7 +2,7 @@
 **************************************************************
                     Activity #10 - File Activity MAIN
                     Name: Lukas Maynard
-                    Data Structures Date: Date of Submission (1/31/2023)
+                    Data Structures Date: Date of Submission (2/2/2023)
  ***************************************************************
     The hub for all other files in the package. With this you choose from all the options of
     reading, writing a header, appending, and creating a file. Uses JOptionPane for the selection, but the

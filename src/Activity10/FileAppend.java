@@ -2,7 +2,7 @@
 **************************************************************
                     Activity #10 - File Activity/FileAppend
                     Name: Lukas Maynard
-                    Data Structures Date: Date of Submission (1/31/2023)
+                    Data Structures Date: Date of Submission (2/2/2023)
  ***************************************************************
         Appends to the end of the file preserving the header. Add as many lines as needed.
         Then end the program by not typing anything and pressing enter.

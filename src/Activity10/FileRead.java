@@ -2,7 +2,7 @@
 **************************************************************
                     Activity #10 - File Activity/FileRead
                     Name: Lukas Maynard
-                    Data Structures Date: Date of Submission (1/31/2023)
+                    Data Structures Date: Date of Submission (2/2/2023)
  ***************************************************************
         Reads text file and prints it in terminal.
  *****************************************************************
