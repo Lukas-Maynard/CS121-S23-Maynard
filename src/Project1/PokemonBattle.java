@@ -120,8 +120,6 @@ public class PokemonBattle {
             System.out.println("Player 1 Wins!");
         } else if (players[0].wins < players[1].wins) {
             System.out.println("Player 2 Wins!");
-        }else {
-            System.out.println("It was a tie!");
         }
         System.exit(0);
     }
