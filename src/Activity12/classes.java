@@ -60,7 +60,6 @@ public class classes {
             System.out.println("Speed(orbital miles/s): "+speed);
             System.out.println("Deployed in: "+deployedYear);
             System.out.println("-------------------");
-
         }
     }
 
