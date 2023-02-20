@@ -12,18 +12,25 @@ public class PackagesDemoMain {
         this.id = id;
         this.address = address;
     }
+    public void PrintStudent(){
+        System.out.printf("""
+                Name: %s
+                Major: %s
+                ID: %S
+                Address: %s
+                """, name, major, id, address );
+    }
 
-    public void setId(String id) {
+    private void setId(String id) {
         this.id = id;
     }
     public String getId() {
         return id;
     }
-
-    public void setAddress(String address) {
+    protected void setAddress(String address) {
         this.address = address;
     }
-    public String getAddress() {
+    String getAddress() {
         return address;
     }
 
