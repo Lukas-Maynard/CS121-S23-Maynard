@@ -71,7 +71,7 @@ public class RestaurantSelector {
 /*
 Joe’s Gourmet Burgers –     Vegetarian: No,  Vegan: No,  Gluten-Free: No
 Mama’s Fine Italian –       Vegetarian: Yes, Vegan: No,  Gluten-Free: No
-Main Street Pizza Company – Vegetarian: Yes, Vegan: No,  Gluten-Free: Yes
+arrayListDemo.src.stringArrayList.StringArrayList Street Pizza Company – Vegetarian: Yes, Vegan: No,  Gluten-Free: Yes
 Corner Cafe -               Vegetarian: Yes, Vegan: Yes, Gluten-Free: Yes
 The Chef’s Kitchen –        Vegetarian: Yes, Vegan: Yes, Gluten-Free: Yes
 
