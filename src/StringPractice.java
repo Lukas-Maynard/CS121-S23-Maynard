@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-public class StingPractice {
+public class StringPractice {
     public static void main(String[] args) {
 
         String Creator = "Lukas Maynard";
