@@ -1,6 +1,6 @@
 /*
 **************************************************************
-            Activity #2 - Book Club Points
+            Activity #2 - name
             Name: Lukas Maynard
             Data Structures Date: Date of Submission (2/7/2023)
  *************************************************************
