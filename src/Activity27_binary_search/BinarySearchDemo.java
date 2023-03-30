@@ -1,5 +1,5 @@
 package src.Activity27_binary_search;
-
+/*
 public class BinarySearchDemo {
     public class BinarySearchDemo {
     public int binarySearch (int key, int[] array) {
@@ -34,3 +34,4 @@ public class BinarySearchDemo {
         low, array[low], mid, array[mid], high, array[high]);
 // if not found
 }
+*/
