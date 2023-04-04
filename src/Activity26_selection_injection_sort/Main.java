@@ -4,15 +4,10 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        SelectionSort sort = new SelectionSort();
-        int[] unsortedArray = sort.getArray();
+        quickSorting sorting = new quickSorting();
+        int[] unsortedArray = sorting.getArray();
         System.out.println("Unsorted array:"+ Arrays.toString(unsortedArray));
-/*
-        int[] sortedArray = sort.sortArray(unsortedArray);
-        System.out.println("Sorted array:"+Arrays.toString(sortedArray));
-  */
-        Sorting sorting = new Sorting();
-        sorting.quickSort(unsortedArray,0,unsortedArray.length-1);
 
+        sorting.quickSort(unsortedArray,0,unsortedArray.length-1);
     }
 }
