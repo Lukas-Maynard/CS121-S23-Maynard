@@ -1,3 +1,10 @@
+/*
+**************************************************************
+            Activity #26 - Quick sort
+            Name: Lukas Maynard
+            Data Structures Date: Date of Submission (4/5/2023)
+ *************************************************************
+ */
 package src.Activity26_selection_injection_sort;
 
 import java.util.Arrays;
@@ -23,7 +30,6 @@ public class quickSorting {
         if (pivot<end){
             quickSort(array,pivot,end);
         }
-        //System.out.println("quicksort: "+Arrays.toString(array));
     }
 
     private int partition(int[] array,int start,int end){
@@ -40,15 +46,18 @@ public class quickSorting {
                 j--;
             }
             if (i<=j){
+                System.out.printf("""
+                %s start: %d end: %d pivot: %d
+                """,Arrays.toString(array),array[i],array[j],pivot);
                 temp = array[i];
                 array[i] = array[j];
                 array[j] = temp;
                 i++;
                 j--;
-                //System.out.println(Arrays.toString(array));
                 System.out.printf("""
                 %s start: %d end: %d pivot: %d
-                """,Arrays.toString(array),i,j,pivot);
+                """,Arrays.toString(array),array[i],array[j],pivot);
+
             }
         }
         return i;
