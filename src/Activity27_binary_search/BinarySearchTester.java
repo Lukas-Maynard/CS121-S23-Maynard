@@ -9,7 +9,6 @@ public class BinarySearchTester {
         Scanner console = new Scanner(System.in);
         BinarySearchDemo demo = new BinarySearchDemo();
         ArrayList<Integer> array = new ArrayList<>(Arrays.asList(23,17,12,90,84,38,5,77,44));
-        //int[] array = {23,17,12,90,84,38,5,77,44};
         System.out.print("unsorted: ");
         for (int num : array)
             System.out.print(num + " ");
@@ -33,8 +32,7 @@ public class BinarySearchTester {
         }
     }
 
-    public static ArrayList<Integer> selectionSort(ArrayList<Integer> unsortedArray){
-        ArrayList<Integer> sortedArray = unsortedArray;
+    public static ArrayList<Integer> selectionSort(ArrayList<Integer> sortedArray){
         for (int i=0; i < sortedArray.size(); i++){
             int min = i;
             for (int j = i+1; j < sortedArray.size(); j++){
@@ -43,14 +41,8 @@ public class BinarySearchTester {
                 }
             }
             int temp = sortedArray.get(i);
-            sortedArray.set(i,min);
+            sortedArray.set(i,sortedArray.get(min));
             sortedArray.set(min, temp);
-
-            System.out.println("i    "+i);
-            System.out.println("min  "+min);
-            System.out.println("temp "+temp);
-//            sortedArray[i] = sortedArray[min];
- //           sortedArray[min] = temp;
         }
         return sortedArray;
     }
