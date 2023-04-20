@@ -1,4 +1,4 @@
-package src.Activity12_sets_and_iterators;
+package src.Activity28_sets_and_iterators;
 
 public class Main {
     public static void main(String[] args) {
