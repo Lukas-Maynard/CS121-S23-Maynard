@@ -19,7 +19,7 @@
         Constructor used to make an object/instance, a method used for output.
  *************************************************************
 */
-package src.Activity12;
+package src.Activity12_classes;
 
 public class classes {
 
