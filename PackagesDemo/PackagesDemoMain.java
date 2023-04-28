@@ -6,7 +6,7 @@ public class PackagesDemoMain {
     private String id;
     private String address;
 
-    PackagesDemoMain(String name, String major, String id, String address){
+    public PackagesDemoMain(String name, String major, String id, String address){
         this.name = name;
         this.major = major;
         this.id = id;
