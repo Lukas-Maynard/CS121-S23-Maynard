@@ -1,7 +1,5 @@
 package src.Week14.Activity36_StringBuilder.src;
 
-import Activity36_StringBuilder.src.PlanetClass;
-
 import java.util.ArrayList;
 
 public class PlanetList {

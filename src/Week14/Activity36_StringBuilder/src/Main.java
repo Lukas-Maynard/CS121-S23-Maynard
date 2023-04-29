@@ -1,8 +1,5 @@
 package src.Week14.Activity36_StringBuilder.src;
 
-import Activity36_StringBuilder.src.PlanetClass;
-import Activity36_StringBuilder.src.PlanetList;
-
 public class Main{
     public static void main(String[] args) {
         PlanetList planetList = new PlanetList();

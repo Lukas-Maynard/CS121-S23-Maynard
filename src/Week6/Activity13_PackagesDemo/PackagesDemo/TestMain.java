@@ -1,4 +1,4 @@
-package PackagesDemo;
+package src.Week6.Activity13_PackagesDemo.PackagesDemo;
 
 public class TestMain {
     public static void main(String[] args) {

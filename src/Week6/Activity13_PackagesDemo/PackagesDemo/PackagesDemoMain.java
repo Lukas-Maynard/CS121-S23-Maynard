@@ -1,4 +1,4 @@
-package PackagesDemo;
+package src.Week6.Activity13_PackagesDemo.PackagesDemo;
 
 public class PackagesDemoMain {
     public String name;

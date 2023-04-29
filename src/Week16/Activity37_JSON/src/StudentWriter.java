@@ -1,4 +1,4 @@
-package Activity37_JSON.src;
+package src.Week16.Activity37_JSON.src;
 
 import com.google.gson.Gson;
 import java.io.FileWriter;
