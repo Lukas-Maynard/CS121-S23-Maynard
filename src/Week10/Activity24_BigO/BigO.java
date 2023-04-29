@@ -7,7 +7,7 @@
         3 methods that print provided parameter a certain amount of times.
  *************************************************************
 */
-package src.Week11.Week10.Activity24_BigO;
+package src.Week10.Activity24_BigO;
 
 public class BigO {
     public void printOnce(String input){

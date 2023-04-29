@@ -7,7 +7,7 @@
         Tests the BigO class methods
  *************************************************************
 */
-package src.Week11.Week10.Activity24_BigO;
+package src.Week10.Activity24_BigO;
 
 public class Test {
     public static void main(String[] args) {

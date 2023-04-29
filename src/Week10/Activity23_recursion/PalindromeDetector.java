@@ -7,7 +7,7 @@
         Uses recursion to compare the first and last letter in a string then shorten it before calling itself.
  *************************************************************
 */
-package src.Week11.Week10.Activity23_recursion;
+package src.Week10.Activity23_recursion;
 
 public class PalindromeDetector {
 

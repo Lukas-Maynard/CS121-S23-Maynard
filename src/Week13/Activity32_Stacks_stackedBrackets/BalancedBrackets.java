@@ -1,4 +1,4 @@
-package src.Week13.Activity32_stackedBrackets;
+package src.Week13.Activity32_Stacks_stackedBrackets;
 
 import java.util.EmptyStackException;
 import java.util.Stack;
