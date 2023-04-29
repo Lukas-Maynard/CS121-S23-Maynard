@@ -20,4 +20,5 @@
 
 | Number | Description |
 |----- | ----------- |
-| [1](/src/Week2) | Input methods, Conditionals |
+| [1](/src/Project1) | <ul><li>Battles input pokemon until winner is found,</li><li>Uses methods, loops, conditionals, lists, input/output, etc.</li></ul> |
+| [2](/src/Project2) |  |
