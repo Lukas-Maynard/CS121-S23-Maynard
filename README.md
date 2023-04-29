@@ -20,5 +20,5 @@
 
 | Number | Description |
 |----- | ----------- |
-| [1](/src/Project1) | <ul><li>Battles input pokemon until winner is found,</li><li>Uses methods, loops, conditionals, lists, input/output, etc.</li></ul> |
-| [2](/src/Project2) | <ul><li>item1</li><li>item2</li></ul>|
+| [1](/src/Project1) | <ul><li>Battles input pokemon until winner is found.</li><li>Uses methods, loops, conditionals, lists, input/output, etc.</li></ul> |
+| [2](/src/Project2) | <ul><li> Focuses on user input, effective list storage, and method usage. </li><li>Uses classes, getters/setters, along with everything used in [Project1](/src/Project1)</li></ul>|
