@@ -14,7 +14,7 @@
 | [12](/src/Week12) | Sets\iterators, Hashmaps, Generics |
 | [13](/src/Week13) | Linked lists, Stacks, Queues |
 | [14](/src/Week14) | String builder, Date formatting, Unit testing |
-| [16](/src/Week) | Json, XML |
+| [16](/src/Week16) | Json, XML |
 
 ## Projects
 
