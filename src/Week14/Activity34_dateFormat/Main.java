@@ -1,7 +1,5 @@
 package src.Week14.Activity34_dateFormat;
 
-import src.Activity34_dateFormat.TotalCalories;
-
 import java.util.Scanner;
 
 public class Main {

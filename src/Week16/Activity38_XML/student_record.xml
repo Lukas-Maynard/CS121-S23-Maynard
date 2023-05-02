@@ -1,0 +1,14 @@
+<student_records>
+    <student id="1">
+        <firstname>Lukas</firstname>
+        <lastname>Maynard</lastname>
+        <major>Computer Science</major>
+        <gpa>3.5</gpa>
+    </student>
+    <student id="2">
+        <firstname>Buzz</firstname>
+        <lastname>Lightyear</lastname>
+        <major>Space Ranger</major>
+        <gpa>3.9</gpa>
+    </student>
+</student_records>
